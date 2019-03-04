@@ -1,0 +1,5 @@
+﻿  lab06.cpp
+c:\users\harri\documents\prgms\lab06\lab06.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\harri\documents\prgms\lab06\lab06.cpp(23): warning C4101: 'userChoice': unreferenced local variable
+  lab06.vcxproj -> C:\Users\harri\Documents\prgms\lab06\Debug\lab06.exe
+  lab06.vcxproj -> C:\Users\harri\Documents\prgms\lab06\Debug\lab06.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  lab09.cpp
+c:\users\harri\documents\prgms\lab09\lab09.cpp(67): warning C4715: 'quad': not all control paths return a value
+c:\users\harri\documents\prgms\lab09\lab09.cpp(81): warning C4715: 'underRoot': not all control paths return a value
+  lab09.vcxproj -> C:\Users\harri\Documents\prgms\lab09\Debug\lab09.exe
+  lab09.vcxproj -> C:\Users\harri\Documents\prgms\lab09\Debug\lab09.pdb (Partial PDB)

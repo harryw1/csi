@@ -1,0 +1,6 @@
+﻿  lab12.cpp
+c:\users\harri\documents\prgms\lab12\lab12.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\harri\documents\prgms\lab12\lab12.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\harri\documents\prgms\lab12\lab12.cpp(61): warning C4018: '<': signed/unsigned mismatch
+  lab12.vcxproj -> C:\Users\harri\Documents\prgms\lab12\Debug\lab12.exe
+  lab12.vcxproj -> C:\Users\harri\Documents\prgms\lab12\Debug\lab12.pdb (Partial PDB)

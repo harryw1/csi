@@ -1,0 +1,4 @@
+﻿  lab2.cpp
+c:\users\harri\desktop\lab2\lab2.cpp(18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  lab2.vcxproj -> C:\Users\harri\Desktop\lab2\Debug\lab2.exe
+  lab2.vcxproj -> C:\Users\harri\Desktop\lab2\Debug\lab2.pdb (Partial PDB)

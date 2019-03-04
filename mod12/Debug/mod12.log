@@ -1,0 +1,4 @@
+﻿  mod12.cpp
+c:\users\harri\documents\prgms\mod12\mod12.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  mod12.vcxproj -> C:\Users\harri\Documents\prgms\mod12\Debug\mod12.exe
+  mod12.vcxproj -> C:\Users\harri\Documents\prgms\mod12\Debug\mod12.pdb (Partial PDB)
